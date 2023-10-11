@@ -1,0 +1,17 @@
+{
+  "name": "zbd-express-example",
+  "version": "0.1.0",
+  "description": "Example source code for Express.js + ZBD use case.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": ["zbd", "express", "payments", "bitcoin"],
+  "author": "Andre Neves <andre@zebedee.io>",
+  "license": "MIT",
+  "dependencies": {
+    "@zbd/node": "^0.6.3",
+    "express": "^4.18.2"
+  },
+  "type": "module"
+}
